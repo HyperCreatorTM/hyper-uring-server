@@ -116,3 +116,7 @@ g++ -O3 -march=native io_uring_server.cpp -luring -lpthread -o server
 This project was engineered by a **15-year-old systems programmer**,
 with a focus on mastering modern Linux I/O architecture and
 high-performance server design.
+
+License
+
+Licensed under the MIT License.
